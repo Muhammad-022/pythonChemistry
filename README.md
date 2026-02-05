@@ -4,7 +4,7 @@ A curated list of awesome Python frameworks, libraries, software and resources r
 
 ## Table of contents
 
-- [pythonChemistry [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+- pythonChemistry [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
   - [General Chemistry](#general-chemistry)
   - [Machine Learning](#machine-learning)
   - [Generative Molecular Design](#generative-molecular-design)
