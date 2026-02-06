@@ -1,10 +1,8 @@
-# pythonChemistry 
+# pythonChemistry [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Python frameworks, libraries, software and resources related to Chemistry.
 
 ## Table of contents
-
-- pythonChemistry [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
   - [General Chemistry](#general-chemistry)
   - [Machine Learning](#machine-learning)
   - [Generative Molecular Design](#generative-molecular-design)
@@ -12,8 +10,7 @@ A curated list of awesome Python frameworks, libraries, software and resources r
   - [Molecular Visualization](#molecular-visualization)
   - [Database Wrappers](#database-wrappers)
   - [Learning Resources](#learning-resources)
-  - [See Also](#see-also)
-
+  - [For You](#for-you)
 
 ## General Chemistry
 
