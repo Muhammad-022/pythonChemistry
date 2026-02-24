@@ -211,7 +211,7 @@ A curated list of awesome Python frameworks, libraries, software and resources r
 - [polypharmacy-ddi-synergy-survey](https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey) A collection of research papers (with Python implementations) focusing on drug-drug interactions, synergy and polypharmacy.
 
 ## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for new packages or corrections.
+**Contributions are welcome!** Please open an issue or submit a pull request for new packages or corrections.
 
 ## License
 This repository is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
